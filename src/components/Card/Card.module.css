@@ -1,0 +1,20 @@
+.contenedor{
+
+    text-align: center;
+    border-radius: 20px;
+    margin-left: 10px;
+    margin-top: 10px;
+    margin-bottom: 100px;
+    background-color: #2e2e2e;
+    Border: 1px solid black;
+    width: 20%;
+    height: 500px;
+    margin: auto;
+    color: #FFFFFF;
+}
+
+.img{
+    width: 200px;
+    height: 200px;
+}
+
